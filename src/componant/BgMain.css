@@ -1,0 +1,13 @@
+.main-page{
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(234,234,234);
+}
+
+
+.three-dog{
+    max-width: 50%;
+    height: auto;
+
+}
